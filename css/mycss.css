@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(129, 114, 228);
+    text-align: center;
+    color: purple;
+    font-style: initial;
+    font-size: medium;
+}
+
+h1{
+    font-family: 'Dancing Script', cursive;
+    align-content: center;
+    border-left: 5cm;
+}
+
+.nav{
+    float: left;
+    font-size: x-large;
+    min-width: inherit;
+}
+
+
+.green{
+    color: green;
+    background: black;
+    text-align: left;
+}
+
+.blue{
+    color: blue;
+    background-color: black;
+}
+
+.red{
+    color: red;
+    background-color: black;
+}
+
+.polish{
+    background-color: grey;
+    color: black;
+}
